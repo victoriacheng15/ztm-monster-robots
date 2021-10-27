@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ztm-monster-robots/static/css/main.65800112.chunk.css",
+    "main.js": "/ztm-monster-robots/static/js/main.8ab8a7ea.chunk.js",
+    "main.js.map": "/ztm-monster-robots/static/js/main.8ab8a7ea.chunk.js.map",
+    "runtime-main.js": "/ztm-monster-robots/static/js/runtime-main.44c7fb90.js",
+    "runtime-main.js.map": "/ztm-monster-robots/static/js/runtime-main.44c7fb90.js.map",
+    "static/js/2.60e84400.chunk.js": "/ztm-monster-robots/static/js/2.60e84400.chunk.js",
+    "static/js/2.60e84400.chunk.js.map": "/ztm-monster-robots/static/js/2.60e84400.chunk.js.map",
+    "static/js/3.4d982887.chunk.js": "/ztm-monster-robots/static/js/3.4d982887.chunk.js",
+    "static/js/3.4d982887.chunk.js.map": "/ztm-monster-robots/static/js/3.4d982887.chunk.js.map",
+    "index.html": "/ztm-monster-robots/index.html",
+    "static/css/main.65800112.chunk.css.map": "/ztm-monster-robots/static/css/main.65800112.chunk.css.map",
+    "static/js/2.60e84400.chunk.js.LICENSE.txt": "/ztm-monster-robots/static/js/2.60e84400.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44c7fb90.js",
+    "static/js/2.60e84400.chunk.js",
+    "static/css/main.65800112.chunk.css",
+    "static/js/main.8ab8a7ea.chunk.js"
+  ]
+}
